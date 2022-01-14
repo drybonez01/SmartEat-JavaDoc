@@ -1,0 +1,21 @@
+unnamed package
+controller.AreaAdmin
+controller.GestioneAcquisti
+controller.GestioneAutenticazione
+controller.GestioneMensa
+controller.GestioneMenu
+controller.GestionePietanze
+controller.GestioneProfilo
+controller.GestioneUtenti
+controller.Home
+controller.ProcessoDiAcquisto
+controller.RichiestaDiRegistrazione
+controller.SmartEatConfig
+controller.StatisticheAcquisti
+model.acquisto
+model.mensa
+model.menu
+model.pietanza
+model.tessera
+model.utente
+model.utils
